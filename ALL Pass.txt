@@ -1,0 +1,15 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+Login Admin      Username : admin@gmail.com
+                 Password : admin2
+                 Username : admin
+                 Password : admin2
+
+
+Login User       Username : test@gmail.com
+                 Password : test
+
+
+
+
