@@ -1,2 +1,5 @@
 # Online-Hostel-management-system-Project
- Online Hostel management system Project. This Project Demo Video : https://youtu.be/VlN6EuCBmeY
+
+This Projects Demo Video link : https://youtu.be/VlN6EuCBmeY
+
+Another Project link : https://youtu.be/xnnS5XQe7p4
